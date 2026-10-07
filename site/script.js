@@ -1,5 +1,5 @@
 function convertCToF(celsius) {
-    return (celsius * 9) / 5 + 30;
+    return (celsius * 9) / 5 + 32;
 }
 
 if (typeof document !== "undefined") {
